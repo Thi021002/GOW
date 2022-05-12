@@ -1,0 +1,9 @@
+﻿O que é o God of War = God of War é uma franquia de jogos eletronicos criado por David Jaffe e produzido pela Santa Monica Studio.
+Iniciado em 2005, o God of War é um dos maiores sucessos da história dos jogos e o maior sucesso dos jogos exclusivos da Playstation. O jogo
+ está em alta no momento devido ao novo lançamento da Santa Monica (God of War Ragnarok), onde Kratos e Atreus (seu filho) devem viajar pelos
+ Nove Reinos para encontrar respostas e se preparar para a batalha profetizada que causará o fim do mundo. Isso, enquanto as forças asgardianas preparam-se para guerra. 
+Seu antecessor foi um sucesso total de vendas, ultrapassando 2 milhões de vendas na Steam e gantando ate o GOTY (Premio de melhor Jogo do ano), superando jogos como Spider-Man e Red Dead Redemption 2.
+
+kratos = O visual do Espartano continua bem parecido, mudando apenas alguns detalhes do jogo anterior.
+atreus = O visual de Atreus mudou bastante, onde ele deixa de ser a criança que vemos no jogo anterior para um adolescente que já possui algumas marcas de suas batalhas.
+thor = O visual do Deus do Trovão dividiu a opnião de diversas pessoas, algumas reclamam por um deus estar "Gordo", já outras pessoas adoraram o seu visual e falam que é uma das melhores representaçôes do filho de Odin de todo o universo fantasioso.
